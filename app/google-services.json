@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "575235741139",
+    "firebase_url": "https://chatbase-99af5.firebaseio.com",
+    "project_id": "chatbase-99af5",
+    "storage_bucket": "chatbase-99af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575235741139:android:ac3141b0718defa3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575235741139-nfok8r6o70f9qm0fv3erdigqlqh3i2b6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication1",
+            "certificate_hash": "de9661e51623b74e9a6efcb26a1a3dd3420f7196"
+          }
+        },
+        {
+          "client_id": "575235741139-aol6f3rc42nuauq7ko1igmtivppjibv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh9iTM8e9VCcPqkf1gnZhG87QLKEw1ZRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575235741139-aol6f3rc42nuauq7ko1igmtivppjibv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

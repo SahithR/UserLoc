@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Entry page</string>
+    <string name="label1">TextView</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_meh">meh</string>
+    <string name="title_activity_current_location">Map</string>
+    <string name="collection_users" />
+    <string name="collection_user_locations" />
+</resources>
