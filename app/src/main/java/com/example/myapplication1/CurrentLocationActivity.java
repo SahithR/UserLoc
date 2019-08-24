@@ -362,7 +362,7 @@ public class CurrentLocationActivity extends FragmentActivity implements OnMapRe
             });
         }
     }
-    //is my code even present?
+    //is my code even present??
 
 
 }
